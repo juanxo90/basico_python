@@ -6,3 +6,6 @@ https://www.kaggle.com/code/jboysen/quick-tutorial-flatten-nested-json-in-pandas
 
 Los datos de geocronologia se encuentran disponibles en:
 https://www.sgm.gob.mx/GeoInfoMexGobMx/descarga_carta_geocronologica.html
+
+Wine-quality del ejecicio de udacity
+https://archive.ics.uci.edu/ml/datasets/wine+quality
